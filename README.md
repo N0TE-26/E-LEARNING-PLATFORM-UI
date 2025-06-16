@@ -44,9 +44,7 @@ Font Awesome – Social media and menu icons
 YouTube Embeds – Video tutorial integration
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 E-Learning-Platform
 
 
