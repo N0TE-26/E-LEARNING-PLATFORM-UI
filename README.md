@@ -77,7 +77,8 @@ Course Selection Page
 
 Profile Page
 ![image](https://github.com/user-attachments/assets/6a6a392d-61b6-4bf9-910a-c5e6b41f1578)
-![image](https://github.com/user-attachments/assets/b81446ec-2077-44d0-8e92-dc897a481a3b)
+![image](https://github.com/user-attachments/assets/51576345-fe46-433c-a407-cea1bafcf2a5)
+
 
 Notes Page
 ![image](https://github.com/user-attachments/assets/8abac124-081f-4b4c-9913-30139023abcd)
