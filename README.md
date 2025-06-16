@@ -47,8 +47,9 @@ YouTube Embeds – Video tutorial integration
 bash
 Copy
 Edit
-E-Learning-Platform/
-│
+E-Learning-Platform
+
+
 ├── home.html           # Landing page
 
 ├── course.html         # Course listings
