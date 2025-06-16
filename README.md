@@ -50,12 +50,19 @@ Edit
 E-Learning-Platform/
 │
 ├── home.html           # Landing page
+
 ├── course.html         # Course listings
+
 ├── topic.html          # Individual course content
+
 ├── about.html          # About the platform
+
 ├── profile.html        # (Optional profile page)
+
 ├── style.css           # Main stylesheet
+
 ├── scripts.js          # JavaScript for UI actions
+
 └── images/             # Folder for logo/images (if any)
 
 📸 Screenshots
